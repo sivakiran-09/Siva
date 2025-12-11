@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 
 def get_grade(score):
     if score >= 95: return 'A+'
